@@ -45,10 +45,11 @@ $ python3 --version
 Python 3.6.5
 ```
 
-Reference:
-
+<!---
+References:
 - https://wsvincent.com/install-python3-mac/
 - https://stackoverflow.com/questions/51125013/how-can-i-install-a-previous-version-of-python-3-in-macos-using-homebrew/51125014#51125014
+--->
 
 ## 4. Anaconda
 
